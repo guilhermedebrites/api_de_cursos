@@ -13,7 +13,7 @@ Este projeto é uma API REST desenvolvida com Spring Boot para a gestão de curs
 ### Pré-requisitos
 - JDK 11
 - Maven 3.8.x
-- 
+  
 ### Configurar o Ambiente
 1. Clone o repositório:
    ```bash
